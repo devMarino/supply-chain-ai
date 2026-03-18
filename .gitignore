@@ -1,0 +1,12 @@
+# Ambiente virtual
+.venv/
+
+# Variáveis de ambiente (NUNCA subir pro GitHub)
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# CSV gerados automaticamente
+dados/csv/
